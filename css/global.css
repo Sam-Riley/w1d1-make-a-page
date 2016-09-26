@@ -2,11 +2,21 @@ body {
     /*background-color: #E8C547;
     font-size: 50px;*/
 }
+
+
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+}
 p {
     font-size: 16px;
+    text-align: center;
 }
-h1 {
+h1, h2, h4 {
     color:black;
+    text-align: center;
 }
 
 
